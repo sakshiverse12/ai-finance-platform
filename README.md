@@ -1,4 +1,4 @@
-#Deployed link : https://welth-allf.vercel.app/
+Deployed link : https://welth-allf.vercel.app/
 
 ```
 DATABASE_URL=
